@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 .nav-bar {
@@ -49,7 +50,7 @@
 }
 
 .zoom-in img:hover {
-  transform: scale(1.5);
+  transform: scale(1.1);
 }
 
 .template-content:hover {
